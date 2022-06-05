@@ -24,7 +24,10 @@
     "seed"
   ],
   "dependencies": {
-    "pixi.js": "6.0.4"
+    "pixi-ease": "^3.0.7",
+    "pixi-text-input": "^1.0.6",
+    "pixi.js": "6.0.4",
+    "progressbar.js": "^1.1.0"
   },
   "devDependencies": {
     "@babel/core": "7.14.3",
